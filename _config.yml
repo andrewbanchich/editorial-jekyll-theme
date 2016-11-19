@@ -4,6 +4,7 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
 title-bold: Forty
 title-normal: by HTML5 UP
@@ -18,15 +19,18 @@ state: TN
 zip_code: 55555
 country: United States of America
 phone: (716) 555-5555
+
 # Plugins
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
 #  - jemoji
+
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages" 
 tiles-count: 6
+
 # Social settings
 500px_url: 
 facebook_url: 
@@ -38,11 +42,14 @@ linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url: 
 slack_url: 
 twitter_url: https://twitter.com/andrewbanchich
+
 # Build settings
 markdown: kramdown
+
 # Plugin: jekyll-seo-tag
 twitter:
   username: andrewbanchich
+  
 # Add one or more of the following
 facebook:
   app_id: 
