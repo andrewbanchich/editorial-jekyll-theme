@@ -21,11 +21,6 @@ country: United States of America
 phone: (716) 555-5555
 
 # Plugins
-gems:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
-#  - jemoji
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages" 
@@ -45,15 +40,3 @@ twitter_url: https://twitter.com/andrewbanchich
 
 # Build settings
 markdown: kramdown
-
-# Plugin: jekyll-seo-tag
-twitter:
-  username: andrewbanchich
-  
-# Add one or more of the following
-facebook:
-  app_id: 
-  publisher: 
-  admins: 
-logo:
-google_site_verification: 
