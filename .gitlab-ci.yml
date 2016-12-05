@@ -3,6 +3,9 @@
 image: ruby:2.3
 
 test:
+    environment:
+        name: review/$CI_BUILD_REF_NAME
+        url: http://$CI_BUILD_REF_NAME.review.gitlab.com/
   stage: test
   script:
   - gem install jekyll
