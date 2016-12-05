@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "editorial_jekyll_theme"
-  spec.version       = "0.1.1"
+  spec.version       = "0.1.2"
   spec.authors       = ["Andrew Banchich"]
   spec.email         = ["andrewbanchich@gmail.com"]
 
-  spec.summary       = %q{A Jekyll version of the "Forty" theme by HTML5 UP.}
+  spec.summary       = %q{A Jekyll version of the "Editorial" theme by HTML5 UP.}
   spec.homepage      = "https://gitlab.com/andrewbanchich/editorial-jekyll-theme"
   spec.license       = "MIT"
 
