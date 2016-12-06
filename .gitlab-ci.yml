@@ -13,6 +13,10 @@ test:
   except:
   - master
 
+build:
+  stage: build
+  script: gem build .editorial-jekyll-theme-*
+
 pages:
   stage: deploy
   script:
