@@ -21,5 +21,7 @@ pages:
   artifacts:
     paths:
     - public
+  variables:
+    GIT_STRATEGY: fetch
   only:
   - master
