@@ -7,7 +7,7 @@ pages:
   script:
   - gem install jekyll
   - jekyll build -d public
-  - gem build forty_jekyll_theme.gemspec
+  - gem build editorial_jekyll_theme.gemspec
   artifacts:
     paths:
     - public
