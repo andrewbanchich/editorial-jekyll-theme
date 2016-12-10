@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Elements
-image: images/pic11.jpg
 ---
 
 <!-- Content -->
