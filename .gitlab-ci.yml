@@ -2,8 +2,8 @@
 # Full project: https://gitlab.com/pages/jekyll
 image: ruby:2.3
 
-pages:
-  stage: deploy
+theme:
+  stage: build
   script:
   - gem install jekyll
   - jekyll build -d public
