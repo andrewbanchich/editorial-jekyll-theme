@@ -9,6 +9,6 @@ theme:
   artifacts:
     paths:
     - public
-    - "*.gem"
+    - "editorial_jekyll_theme-*.gem"
   only:
   - master
