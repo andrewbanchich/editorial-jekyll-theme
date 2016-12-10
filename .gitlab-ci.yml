@@ -8,7 +8,7 @@ editorial_jekyll_theme:
   - gem build editorial_jekyll_theme.gemspec
   artifacts:
     paths:
-    - "public/*"
+    - "public"
     - "editorial_jekyll_theme-*.gem"
   only:
   - master
