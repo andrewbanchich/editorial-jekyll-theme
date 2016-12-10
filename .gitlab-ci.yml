@@ -11,6 +11,6 @@ pages:
   artifacts:
     paths:
     - public
-    - *.gem
+    - [*].gem
   only:
   - master
