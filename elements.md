@@ -1,12 +1,8 @@
 ---
 layout: page
+title: Elements
+image: pic11.jpg
 ---
-
-<!-- Content -->
-<section>
-	<header class="main">
-		<h1>Elements</h1>
-	</header>
 
 	<!-- Content -->
 		<h2 id="content">Sample Content</h2>
