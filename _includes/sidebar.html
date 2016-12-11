@@ -15,9 +15,9 @@
             <h2>Menu</h2>
           </header>
           <ul>
-            <li><a href="index.html">Homepage</a></li>
-            <li><a href="generic.html">Generic</a></li>
-            <li><a href="elements.html">Elements</a></li>
+            <li><a href="{{ '' | absolute_url }}">Homepage</a></li>
+            <li><a href="{{ 'generic.html' | absolute_url }}">Generic</a></li>
+            <li><a href="{{ 'elements.html' | absolute_url }}">Elements</a></li>
             <li>
               <span class="opener">Submenu</span>
               <ul>
@@ -75,10 +75,11 @@
           </header>
           <p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
           <ul class="contact">
-            <li class="fa-envelope-o"><a href="#">information@untitled.tld</a></li>
-            <li class="fa-phone">(000) 000-0000</li>
-            <li class="fa-home">1234 Somewhere Road #8254<br />
-            Nashville, TN 00000-0000</li>
+            <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
+            <li class="fa-phone">{{ site.phone }}</li>
+            <li class="fa-home">{{ site.street_address }}<br />
+            {{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
+            {{ site.country }}</li>
           </ul>
         </section>
 
