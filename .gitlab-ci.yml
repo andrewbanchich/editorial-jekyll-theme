@@ -2,6 +2,9 @@ image: ruby:2.3
 
 pages:
   stage: build
+  environment:
+    name: review/$CI_BUILD_REF_NAME
+    url: http://$CI_BUILD_REF_NAME.$APPS_DOMAIN
   script:
   - gem install jekyll
   - jekyll build -d public
