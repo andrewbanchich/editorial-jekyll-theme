@@ -1,4 +1,4 @@
-# Editorial - Jekyll Theme
+# (WIP) Editorial - Jekyll Theme
 
 A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/).
 
