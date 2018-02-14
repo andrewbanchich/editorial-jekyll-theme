@@ -25,5 +25,9 @@ pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/andrewbanchich
 
+# Sass building
+sass:
+    sass_dir: _sass
+    
 # Build settings
 markdown: kramdown
