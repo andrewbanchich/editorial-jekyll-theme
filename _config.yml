@@ -3,7 +3,7 @@ title: Emma Strand
 subtitle: Lab Notebook
 email: emma_strand@uri.edu
 description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
-baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/EmmaStrand_Lab-Notebook" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
