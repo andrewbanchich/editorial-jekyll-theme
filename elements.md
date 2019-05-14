@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Projects
 ---
 
 <h2 id="content">Sample Content</h2>
