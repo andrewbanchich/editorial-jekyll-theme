@@ -20,8 +20,8 @@ image_teaser: /assets/images/reports/20200819/b_vs_c_q03_d1+1.svg
 <p>Die folgende Heatmap stellt die Auswirkungen der Kontaktverfolgungseffizienz und Kontaktreduzierung
     auf den endgültigen Prozentsatz der infizierten Bevölkerung dar.</p>
 
-<div style="text-align: center">
-    <img src="/assets/images/reports/20200819/b_vs_c_q03_d1+1.svg" style="display: block; margin: 0 auto;"/>
+<div style="text-align: center" class="row 90%">
+    <span class="image fit"><img src="/assets/images/reports/20200819/b_vs_c_q03_d1+1.svg" style="display: block; margin: 0 auto;"/></span>
     <small>Abb.1: Endgültiger Prozentsatz der infizierten Bevölkerung für verschiedene Grade der Kontaktreduktion
         und Effizienz der Kontaktverfolgung mit Erkennung leichter Fälle bei 30% und einer Verzögerung der
         Kontaktverfolgung von 2 Tagen. Berechnungen für die Bevölkerung von Wrocław unter der Annahme, dass die
@@ -36,18 +36,23 @@ image_teaser: /assets/images/reports/20200819/b_vs_c_q03_d1+1.svg
     auf den endgültigen Prozentsatz der infizierten Bevölkerung kann beurteilt werden, indem man die Größe
     der gelb-roten Bereiche in Abb.1 (30% Entdeckungsrate) und Abb.2 (60% Entdeckungsrate) vergleicht,
     d.h. Bereiche, die 5 oder mehr Prozent der infizierten Bevölkerung entsprechen.</p>
-<div style="text-align: center">
-    <img src="/assets/images/reports/20200819/b_vs_c_q06_d1+1.svg" style="display: block; margin: 0 auto;"/>
+    
+
+<div style="text-align: center" class="row 90%">
+    <span class="image fit"><img src="/assets/images/reports/20200819/b_vs_c_q06_d1+1.svg" style="display: block; margin: 0 auto;"/></span>
     <small>Abb.2: Endgültiger Prozentsatz der infizierten Bevölkerung für verschiedene Grade der Kontaktreduktion
         und Effizienz der Kontaktverfolgung mit Erkennung leichter Fälle bei 60% und einer Verzögerung der Kontaktverfolgung
         von 2 Tagen. Berechnungen, die an der Population von Wrocław durchgeführt wurden, unter der Annahme,
         dass die berücksichtigten Parameter im Laufe der Zeit konstant bleiben.</small>
 </div>
+
 <p>Der gelb-rote Bereich entspricht einer Epidemie in einem überkritischen Zustand, d.h. mit einer ständig
     steigenden Zahl von neuen Fällen pro Zeiteinheit. Eine verbesserte Nachweisbarkeit von leichten Fällen
     ist daher eine Richtung der Veränderung, die den Prozentsatz der COVID-19-infizierten Bevölkerung deutlich
     reduzieren könnte.</p>
+
 <hr />
+
 <h3>Richtung des Wandels: Verbesserung der Kontaktverfolgung</h3>
 
 <p>Das Verfahren zur Ermittlung von Kontaktpersonen wird sowohl zur Identifizierung der Infektionsquelle (rückwärts)
@@ -61,14 +66,13 @@ image_teaser: /assets/images/reports/20200819/b_vs_c_q03_d1+1.svg
     zu identifizieren und zu erreichen, wird mit <i>b</i> gekennzeichnet und als Wahrscheinlichkeit der
     Erkennung von Kontakten bezeichnet.</p>
 
-
 <p>Die Effizienz der Kontaktverfolgung kann verbessert werden, indem die mobilen Anwendungen zur Kontaktverfolgung
     verwendet werden. Wir gehen hier für das Land von realistischen Werten der Detektion von leichten Fällen
     auf dem Niveau von 30% und der Effektivität der klassischen (Standardverfahren, ohne Einsatz der Applikation)
     Kontaktverfolgung auf dem Niveau von 60% aus (siehe Abb. 1).</p>
 
-<div style="text-align: center">
-    <img src="/assets/images/reports/20200819/u_vs_c_b06_q03_d1+1.svg" style="display: block; margin: 0 auto;"/>
+<div style="text-align: center" class="row 90%">
+    <span class="image fit"><img src="/assets/images/reports/20200819/u_vs_c_b06_q03_d1+1.svg" style="display: block; margin: 0 auto;"/></span>
     <small>Abb.3: Endgültiger Prozentsatz der infizierten Bevölkerung für verschiedene Grade der Kontaktverringerung
         und verschiedene Grade der Verbreitung von mobilen Anwendungen zur Ermittlung von Kontaktpersonen mit einer
         Wirksamkeit der klassischen Ermittlung von Kontaktpersonen in Höhe von 60 %, Erkennung leichter Fälle
@@ -82,6 +86,7 @@ image_teaser: /assets/images/reports/20200819/b_vs_c_q03_d1+1.svg
     Prozentsatz der Bevölkerung, die die Anwendung nutzt, verschiebt sich die Grenze des gelb-roten Bereichs nach
     rechts, so dass wir uns mehr Freiheit für soziale Kontakte ohne negative Auswirkungen auf die epidemiologische
     Situation leisten könnten.</p>
+    
 <p>Die vorgestellten Heatmaps stellen eine Situation dar, in der die Werte der Parameter während der gesamten
     Dauer der Epidemie unverändert bleiben. Natürlich ändern sich diese Werte in der realen Welt ständig.
     Die Karten haben daher illustrativen Charakter und dienen dazu, die Auswirkungen des Antrags auf die

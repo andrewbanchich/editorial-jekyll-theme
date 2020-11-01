@@ -18,8 +18,10 @@ image_teaser: /assets/images/reports/20200819/b_vs_c_q03_d1+1.svg
 
 <p>Na poniższej mapie cieplnej prezentujemy wpływ skuteczności śledzenia kontaktów oraz stopnia ograniczenia kontaktów na końcowy odsetek procentowy zakażonych w populacji. </p>
 
-<div style="text-align: center">
-    <img src="/assets/images/reports/20200819/b_vs_c_q03_d1+1.svg" style="display: block; margin: 0 auto;"/>
+<div style="text-align: center" class="row 90%">
+    <span class="image fit">
+        <img src="/assets/images/reports/20200819/b_vs_c_q03_d1+1.svg" style="display: block; margin: 0 auto;"/>
+    </span>
     <small>Rys.1. Końcowy odsetek procentowy zakażonych w populacji dla różnych stopni ograniczenia kontaktów i skuteczności śledzenia kontaktów przy wykrywalności lekkich przypadków na poziomie 30% oraz opóźnieniu śledzenia kontaktów równych 2 dni. Obliczenia przeprowadzone na populacji Wrocławia przy założeniu, że uwzględnione parametry będa stałe w czasie.</small>
 </div>
 
@@ -27,8 +29,10 @@ image_teaser: /assets/images/reports/20200819/b_vs_c_q03_d1+1.svg
 <h3>Kierunek zmian: zwiększona wykrywalność przypadków o lekkim przebiegu</h3>
 
 <p>Wykrywalność przypadków o lekkim przebiegu, niezależna od śledzenia kontaktów, jest silnie powiązana z tym, jak szeroko zakrojone jest testowanie populacji na obecność koronawirusa. Wpływ tej skuteczności na końcowy odsetek procentowy zakażonych w populacji można ocenić porównując wielkość obszarów żółto-czerwonych na Rys.1 (wykrywalność na poziomie 30%) i na Rys.2 (wykrywalność na poziomie 60%), tj. obszarów odpowiadających 5 lub więcej procentom zakażonych w populacji.</p>
-<div style="text-align: center">
-    <img src="/assets/images/reports/20200819/b_vs_c_q06_d1+1.svg" style="display: block; margin: 0 auto;"/>
+<div style="text-align: center" class="row 90%">
+    <span class="image fit">
+        <img src="/assets/images/reports/20200819/b_vs_c_q06_d1+1.svg" style="display: block; margin: 0 auto;"/>
+    </span>
     <small>Rys.2. Końcowy odsetek procentowy zakażonych w populacji dla różnych stopni ograniczenia kontaktów i skuteczności śledzenia kontaktów przy wykrywalności lekkich przypadków na poziomie 60% oraz opóźnieniu śledzenia kontaktów równych 2 dni. Obliczenia przeprowadzone na populacji Wrocławia przy, założeniu że uwzględnione parametry będa stałe w czasie.</small>
 </div>
 
@@ -42,8 +46,10 @@ image_teaser: /assets/images/reports/20200819/b_vs_c_q03_d1+1.svg
 
 <p>Poprawę skuteczności śledzenia kontaktów można uzyskać stosując aplikację do śledzenia kontaktów. Przyjmujemy tutaj realistyczne dla kraju wartości wykrywalności lekkich przypadków na poziomie 30% oraz skuteczności klasycznego (standardowymi procedurami, bez użycia aplikacji) śledzenia kontaktów na poziomie 60% (por. Rys. 1). </p>
 
-<div style="text-align: center">
-    <img src="/assets/images/reports/20200819/u_vs_c_b06_q03_d1+1.svg" style="display: block; margin: 0 auto;"/>
+<div style="text-align: center" class="row 90%">
+    <span class="image fit">
+        <img src="/assets/images/reports/20200819/u_vs_c_b06_q03_d1+1.svg" style="display: block; margin: 0 auto;"/>
+    </span>
     <small>Rys.3. Końcowy odsetek procentowy zakażonych w populacji dla różnych stopni ograniczenia kontaktów i różnego stopnia upowszechnienia aplikacji do śledzenia kontaktów przy skuteczności klasycznego śledzenia kontaktów na poziomie 60%, wykrywalności lekkich przypadków na poziomie 30% oraz opóźnieniu śledzenia kontaktów równych 2 dni (za pomocą aplikacji lub klasycznie). Obliczenia przeprowadzone na populacji Wrocławia przy założeniu, że uwzględnione parametry będa stałe w czasie.</small>
 </div>
 

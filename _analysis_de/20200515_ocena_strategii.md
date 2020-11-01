@@ -26,11 +26,13 @@ image_teaser: /assets/images/reports/20200515/infected_fraction.png
 <p>Um die Epidemie wirksam bekämpfen zu können, ist es notwendig, die Kontaktreduzierung mit intensiven Bemühungen
     um eine effektive Kontaktverfolgung und umfangreiche Tests zu verbinden. Ein geringes Maß an Kontaktreduzierung
     erfordert wirksamere Maßnahmen in den beiden anderen Richtungen.</p>
+
 <p>Die Verbesserung der Kontakterkennung über ein bestimmtes Niveau hinaus kann mit Standardmethoden schwierig
     zu erreichen sein. Die Verbesserung kann erreicht werden, indem die Gesamtzeit für die Erkennung und Prüfung
     von Kontakten auf weniger als 2 Tage reduziert wird. </p>
-<div style="text-align: center">
-    <img src="/assets/images/reports/20200515/infected_fraction.png" style="margin-bottom: 0px;"/>
+
+<div style="text-align: center" class="row 90%">
+    <span class="image fit"><img src="/assets/images/reports/20200515/infected_fraction.png" style="margin-bottom: 0px;"/></span>
     <small>Endgültiger Prozentsatz der infizierten Bevölkerung in Abhängigkeit von der Erkennung milder, kontaktunabhängiger
         Fälle, q' (horizontale Achse), der Wirksamkeit der Kontaktverfolgung b (vertikale Achse) und dem Grad
         der Reduzierung sozialer Kontakte (Panels). Die Diagramme wurden für die Bevölkerung von Wrocław und
@@ -40,8 +42,9 @@ image_teaser: /assets/images/reports/20200515/infected_fraction.png
 
 <p>Auf der anderen Seite kann eine Erhöhung der Erkennung leichterer Fälle einfacher erreicht werden als eine
     Verbesserung der Kontaktverfolgung und kann durch eine Erweiterung des Testumfangs erreicht werden.</p>
-<div style="text-align: center">
-    <img src="/assets/images/reports/20200515/time_to_extinction.png" style="margin-bottom: 0px;"/>
+
+<div style="text-align: center" class="row 90%">
+    <span class="image fit"><img src="/assets/images/reports/20200515/time_to_extinction.png" style="margin-bottom: 0px;"/></span>
     <small>Zeit bis zum Ende der Epidemie (bis zur letzten Infektion) in Abhängigkeit vom Nachweis leichter
         Fälle, unabhängig von der Ermittlung von Kontaktpersonen q' (horizontale Achse), der Wirksamkeit der
         Ermittlung von Kontaktpersonen b (vertikale Achse) und dem Grad der Verringerung sozialer Kontakte (Panels).
@@ -52,8 +55,8 @@ image_teaser: /assets/images/reports/20200515/infected_fraction.png
 
 <p>Die Effizienz der Kontaktverfolgung kann weiter verbessert werden, indem die mobile Anwendung zur Kontaktverfolgung verwendet wird. </p>
 
-<div style="text-align: center">
-    <img src="/assets/images/reports/20200515/infected_fraction_mobileapp.png" style="display: block; margin: 0 auto;"/>
+<div style="text-align: center" class="row 90%">
+    <span class="image fit"><img src="/assets/images/reports/20200515/infected_fraction_mobileapp.png" style="display: block; margin: 0 auto;"/></span>
     <small>Der endgültige Prozentsatz der infizierten Bevölkerung in Abhängigkeit vom Grad der Kontaktreduktion f,
         von dem Teil der Bevölkerung, der die mobile Anwendung u verwendet, und von der zusätzlichen Erkennung von
         leichten Fällen q'. Die Diagramme wurden für die Population von Wrocław unter der Annahme erstellt,
@@ -64,8 +67,9 @@ image_teaser: /assets/images/reports/20200515/infected_fraction.png
 <p>Die Zeit bis zum Ende der Epidemie hängt am stärksten von der Entfernung von der kritischen Linie ab.
     Im subkritischen Zustand, mit einem größeren Abstand von der kritischen Linie, kann es mehrere Monate
     dauern, und wenn wir an der kritischen Linie bleiben, wird die Epidemie viele Jahre andauern.</p>
-<div style="text-align: center">
-    <img src="/assets/images/reports/20200515/time_to_extinction_mobileapp.png" style="margin-bottom: 0px;"/>
+
+<div style="text-align: center" class="row 90%">
+    <span class="image fit"><img src="/assets/images/reports/20200515/time_to_extinction_mobileapp.png" style="margin-bottom: 0px;"/></span>
     <small>Durchschnittliche Zeit bis zum Ende der Epidemie (bis zur letzten Infektion) in Abhängigkeit vom
         Grad der Kontaktreduktion f, dem Teil der Bevölkerung, der die mobile Anwendung u verwendet, und dem
         zusätzlichen Nachweis von leichten Fällen q'. Die Diagramme wurden für die Population von Wrocław
@@ -73,6 +77,7 @@ image_teaser: /assets/images/reports/20200515/infected_fraction.png
         Nicht-Benutzer 2 Tage und für Benutzer 0,5 Tagen beträgt und die Wahrscheinlichkeit der Kontakterkennung
         b=0,6 ist.</small>
 </div>
+
 <p>Das Testen und Isolieren von Fällen mit einem milden Verlauf (zusätzlich zu den Fällen, die bei der
     Rückverfolgung der Kontakte infizierter Personen festgestellt werden) ist ein sehr wirksames Mittel zur
     Bekämpfung der Epidemie. Würde z.B. die gesamte oder fast die gesamte Bevölkerung die Tracking-Anwendung für
