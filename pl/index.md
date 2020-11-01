@@ -36,7 +36,7 @@ title: Strona Główna
 			<span class="icon fa-diamond"></span>
 			<div class="content">
 				<h3><a href="/pl/recommendations.html">Aktualne rekomendacje</a></h3>
-				<p>Nie wiesz jak minimalizować ryzyko? Jesteś premierem, ministrem, albo prezydentem miasta i nie wiesz co robić?
+				<p>Prezentujemy rekomendacje dla władz krajowych, regionalnych i zwykłych obywateli - jak działać, by pandemia wygasła?
 				</p>
 			</div>
 		</article>
