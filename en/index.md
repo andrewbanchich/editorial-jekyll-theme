@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+title: Main Page
 ---
 
 {% assign forecasts = site.prognosis_en | reverse %}
