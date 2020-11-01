@@ -1,29 +1,61 @@
 # Site settings
-title: Editorial
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+title: MOCOS
+subtitle: MOdelling Coronavirus Spread
+email: mocos.international@gmail.com
 description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
-baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://mocos.pl"
+author: MOCOS International
+street_address: Politechnika Wrocławska, bud. C-3, pok. 203
+city: Wrocław
+state:
+zip_code: 53-227
+country: Poland
+phone: +48 71 320 34 33
 
 # Social settings
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # Build settings
 markdown: kramdown
+
+collections:
+  people:
+    sort_by: img_name
+  publications:
+    sort_by: date
+  reports:
+    sort_by: date
+  analysis_pl:
+    sort_by: date
+    output: true
+    permalink: /pl/analysis/:title
+  prognosis_pl:
+    sort_by: date
+    output: true
+    permalink: /pl/prognosis/:name
+  analysis_en:
+    sort_by: date
+    output: true
+    permalink: /en/analysis/:title
+  prognosis_en:
+    sort_by: date
+    output: true
+    permalink: /en/prognosis/:name
+  analysis_de:
+    sort_by: date
+    output: true
+    permalink: /de/analysis/:title
+  prognosis_de:
+    sort_by: date
+    output: true
+    permalink: /de/prognosis/:name

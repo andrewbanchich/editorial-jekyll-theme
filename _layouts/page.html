@@ -21,9 +21,11 @@
 
                 <!-- Content -->
                 <section>
-                	<header class="main">
+                {% if page.title %}
+                    <header class="main">
                 		<h1>{{ page.title }}</h1>
                 	</header>
+                {% endif %}
 
                   {% if page.image %}
                 	<span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
@@ -34,7 +36,16 @@
               </div>
           </div>
 
-          {% include sidebar.html %}
+            {% if page.lang == 'en' %}
+                {% include sidebar_en.html %}
+            {% endif %}
+        {% if page.lang == 'de' %}
+            {% include sidebar_de.html %}
+        {% endif %}
+        {% if page.lang == 'pl' %}
+            {% include sidebar.html %}
+        {% endif %}
+
 
       </div>
 

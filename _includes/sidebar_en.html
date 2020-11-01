@@ -1,0 +1,53 @@
+<!-- Sidebar -->
+  <div id="sidebar">
+    <div class="inner">
+
+      <!-- Search -->
+        <section id="search" class="alt">
+          <form method="post" action="#">
+            <input type="text" name="query" id="query" placeholder="Search" />
+          </form>
+        </section>
+
+      <!-- Menu -->
+        <nav id="menu">
+          <header class="major">
+            <h2>Menu</h2>
+          </header>
+          <ul>
+            <li><a href="{{ 'pl/index.html' | absolute_url }}">Strona Główna</a></li>
+            <!-- li><a href="{{ 'pl/analysis.html' | absolute_url }}">Analyses</a></li -->
+            <li><a href="{{ 'pl/automatic.html' | absolute_url }}">Automatic Short-term Predictions</a></li>
+            <li><a href="{{ 'pl/risk.html' | absolute_url }}">COVID-19 Invidivual Risk Assessment</a></li>
+            <li><a href="{{ 'pl/prognosis.html' | absolute_url }}">Annotated Forecasts</a></li>
+            <li><a href="{{ 'pl/reports.html' | absolute_url }}">Reports</a></li>
+            <li><a href="{{ 'pl/media.html' | absolute_url }}">Publications & Media</a></li>
+            <li><a href="{{ 'pl/team.html' | absolute_url }}">Team</a></li>
+            <li><a href="{{ 'de/index.html' | absolute_url }}">Deutsch</a></li>
+            <li><a href="{{ 'pl/index.html' | absolute_url }}">Polski</a></li>
+          </ul>
+        </nav>
+
+      <!-- Section -->
+        <section>
+          <header class="major">
+            <h2>Contact</h2>
+          </header>
+          <ul class="contact">
+            <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
+            <li class="fa-phone">{{ site.phone }}</li>
+            <li class="fa-home">{{ site.street_address }}<br />
+            {{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
+            {{ site.country }}</li>
+          </ul>
+        </section>
+
+      <!-- Footer -->
+        <footer id="footer">
+          <p>The team members would like to thank for the possibility of using the computing infrastructure of the Wroclaw Supercomputing and Networking Center for the needs of their research activities, which resulted, among others, in the above publication.</p>
+          <p class="copyright">&copy; {{ site.title }}. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>.</p>
+        </footer>
+    </div>
+
+    <a href="#sidebar" class="toggle">Toggle</a>
+  </div>

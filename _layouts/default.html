@@ -18,14 +18,22 @@
             <div class="inner">
 
                 {% include header.html %}
-                {% include banner.html %}
 
                 {{ content }}
 
             </div>
         </div>
 
+
+        {% if page.lang == 'en' %}
+        {% include sidebar_en.html %}
+        {% endif %}
+        {% if page.lang == 'de' %}
+        {% include sidebar_de.html %}
+        {% endif %}
+        {% if page.lang == 'pl' %}
         {% include sidebar.html %}
+        {% endif %}
 
     </div>
 

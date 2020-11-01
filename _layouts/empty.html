@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Amazing Example Website</title>
+</head>
+<body>
+<script>
+    var lang = navigator.language || navigator.userLanguage;
+    if (lang.indexOf('de') == 0) {
+        window.location = '/de/index.html';
+    }
+    else if (lang.indexOf('pl') == 0) {
+        window.location = '/pl/index.html';
+    }
+    else {
+        window.location = '/en/index.html';
+    }
+</script>
+</body>
+</html>
