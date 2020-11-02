@@ -10,7 +10,7 @@ Epidemię będziemy mogli uznać za zakończoną jeśli przez 14 dni nie będzie
 
 Celem wszystkich powinno być jak najszybsze doprowadzenie do wygaśnięcia epidemii poprzez redukcję okazji do nowych zakażeń. Jest to nie tylko możliwe, ale i zdecydowanie bardziej opłacalne ekonomicznie i społecznie, niż wydłużanie czasu zagrożenia
 
-<div class="row">
+<div class="row 90%">
 	<div class="4u 12u$(small)">
 		<h3>Testuj</h3>
 		<p>Władze powinny prowadzić szerokie testowanie na obecność wirusa, dążąc do zwiększenia wykrywalności zakażeń u osób przechodzących infekcję bezobjawowo lub z łagodnymi symptomami.</p>
@@ -63,14 +63,12 @@ w sporadycznych kontaktach z osobami spoza swojego social bubble konieczne nosze
 Ideę można zastosować jako rekomendację również w miejscach pracy - pracownicy tworzą strefy tzw. social bubble i unikają kontaktów z innymi pracownikami, by uniknąć zakażeń w miejscu pracy
 
 Wdrożone w innych krajach: m.in. Nowa Zelandia, Wielka Brytania, Kanada:
-- Przykładowe wdrożenie (Wielka Brytania): https://www.gov.uk/guidance/making-a-support-bubble-with-another-household?priority-taxon=774cee22-d896-44c1-a611-e3109cce8eae
-- Przykładowe wdrożenie (Nowa Zelandia): https://openrepository.aut.ac.nz/bitstream/handle/10292/13334/Living%20in%20bubbles%20during%20the%20coronavirus%20pandemic_%20insights%20from%20New%20Zealand.pdf?sequence=2&isAllowed=y
 
-Rysunek 1: 
-Góra po lewej: Na panelu u góry po lewej znajduje się ilustracja losowej struktury kontaktów (niebieskie linie) między osobami (szare małe kółka) tworzącymi gospodarstwa domowe (większe zielone kółka). 
-Góra po prawej: Na panelu u góry po prawej przykładowe rozprzestrzenianie się zakażeń pomiędzy osobami wchodzącymi w skład gospodarstw domowych. Małe czerwone kółko oznacza osobę zakażoną, a duże czerwone kółko oznacza zakażone gospodarstwo domowe. 
-Dół po lewej: Na panelu na dole po lewej ilustracja rozprzestrzeniania się infekcji z przykładu z góry po prawej po grafie gospodarstw domowych - tu kółka oznaczają gospodarstwa domowe, niebieskie linie oznaczają połączenia kontaktów między gospodarstwami domowymi, a czerwonymi strzałkami zaznaczono kierunek rozprzestrzeniania się wirusa od gospodarstwa domowego uwidocznionego w lewym górnym rogu. 
-Dół po prawej: Na panelu na dole po prawej ilustracja jak wprowadzenie koncepcji support bubble ograniczających strukturę kontaktów mogłoby pomóc w tej przykładowej sytuacji. Gospodarstwa domowe w obrębie support bubble komunikują się ze sobą, zaś gospodarstwa domowe nie wchodzące w skład bańki przestają się kontaktować fizycznie, dzięki czemu epidemia nie może się propagować swobodnie między gospodarstwami domowymi, a tylko wyłącznie w obrębie jednej bańki gospodarstw domowych.
+<ul>
+    <li><a href="https://www.gov.uk/guidance/making-a-support-bubble-with-another-household?priority-taxon=774cee22-d896-44c1-a611-e3109cce8eae">Wielka Brytania</a></li>
+    <li><a href="https://openrepository.aut.ac.nz/bitstream/handle/10292/13334/Living%20in%20bubbles%20during%20the%20coronavirus%20pandemic_%20insights%20from%20New%20Zealand.pdf?sequence=2&isAllowed=y">Nowa Zelandia</a></li>
+</ul>
+
 
 #### Rekomendacja 3: Przesunięcie godzin przerw w szkole (Strategia dotycząca redukcji kontaktów). 
 
@@ -96,21 +94,23 @@ Testy PCR powinny być przeprowadzane z najmniejszym możliwym opóźnieniem, by
 
 #### Szybkie testy antygenowe (Strategia testowania przy ograniczonych możliwościach) 
 
-- szybkie testy umożliwiają pre-screening osób. Koszt przykładowego testu wynosi 5$, czas trwania testu wynosi 15 minut. Dzięki zastosowaniu szybkich testów można efektywniej (szybciej) wdrożyć izolację czy nakazać pracę z domu dla osób z pozytywnym wynikiem. Osoby z pozytywnym wynikiem szybkiego testu mogą być skierowane do wykonania dokładniejszego testu, jeśli potrzeba jest zweryfikowania wyniku. 
-Literatura: https://abbott.mediaroom.com/2020-08-26-Abbotts-Fast-5-15-Minute-Easy-to-Use-COVID-19-Antigen-Test-Receives-FDA-Emergency-Use-Authorization-Mobile-App-Displays-Test-Results-to-Help-Our-Return-to-Daily-Life-Ramping-Production-to-50-Million-Tests-a-Month
+<ul>
+<li><a href="https://abbott.mediaroom.com/2020-08-26-Abbotts-Fast-5-15-Minute-Easy-to-Use-COVID-19-Antigen-Test-Receives-FDA-Emergency-Use-Authorization-Mobile-App-Displays-Test-Results-to-Help-Our-Return-to-Daily-Life-Ramping-Production-to-50-Million-Tests-a-Month">szybkie testy umożliwiają pre-screening osób</a>. Koszt przykładowego testu wynosi 5$, czas trwania testu wynosi 15 minut. Dzięki zastosowaniu szybkich testów można efektywniej (szybciej) wdrożyć izolację czy nakazać pracę z domu dla osób z pozytywnym wynikiem. Osoby z pozytywnym wynikiem szybkiego testu mogą być skierowane do wykonania dokładniejszego testu, jeśli potrzeba jest zweryfikowania wyniku.</li> 
+<ul><a href="https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/pooled-sample-testing-and-screening-testing-covid-19">łączone testowanie (z j. ang. „pooling tests”)</a> (Strategia testowania przy ograniczonych możliwościach) - w przypadku ograniczonych zasobów ludzkich oraz dotyczących pozyskiwania i przetwarzania próbek, należy rozważyć zaimplementowanie strategii łączonego testowania. Polega to na pobraniu próbki pochodzącej od kilku np do 5 osób - test może wykryć czy przynajmniej jedna z tych osób ma wynik pozytywny. W takim przypadku osoby te powinny zostać przebadane za pomocą normalnego testu (pojedynczo) aby zweryfikować która z osób jest chora, a także poddane normalnemu procesowi leczenia w razie wystąpienia objawów. 
 
-- łączone testowanie (z j. ang. „pooling tests”) (Strategia testowania przy ograniczonych możliwościach) - w przypadku ograniczonych zasobów ludzkich oraz dotyczących pozyskiwania i przetwarzania próbek, należy rozważyć zaimplementowanie strategii łączonego testowania. Polega to na pobraniu próbki pochodzącej od kilku np do 5 osób - test może wykryć czy przynajmniej jedna z tych osób ma wynik pozytywny. W takim przypadku osoby te powinny zostać przebadane za pomocą normalnego testu (pojedynczo) aby zweryfikować która z osób jest chora, a także poddane normalnemu procesowi leczenia w razie wystąpienia objawów. 
 Taki proces testowania może przyspieszyć wykrywanie kontaktów wtórnych w gospodarstwach domowych, aby wzmocnić kryteria obowiązywania kwarantanny.
-Literatura: https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/pooled-sample-testing-and-screening-testing-covid-19
+
 
  
 #### Rekomendacja 7: Triaż śledzenia kontaktów (Strategia śledzenia kontaktów przy ograniczonych możliwościach).
 
 Z uwagi na panujące obecnie ograniczenia dotyczące możliwości śledzenia kontaktów należy nadać odpowiednie priorytety dotyczące identyfikacji kontaktów. Z modelu mikrosymulacyjnego grupy MOCOS wynika, że kontakty odnalezione w procesie śledzenia kontaktów po czasie przekraczającym 3 dni od zdiagnozowania są znacznie mniej pomocne w powstrzymaniu epidemii od tych, które są zdiagnozowane wcześniej. W związku z tym sugerujemy, by w przypadku ograniczonych zasobów skupić się w pierwszej kolejności na śledzeniu kontaktów osób zakażonych, dla których data zdiagnozowania oraz data wystąpienia objawów jest możliwie najnowsza. Dodatkowo priorytetyzacja śledzonych kontaktów może uwzględniać wiek oraz stan zdrowia kontaktów, by skupić się na kontaktach bardziej narażonych na ryzyko hospitalizacji oraz zgonu. Badania pokazują, że im wcześniej rozpoczęty jest proces leczenia, tym mniejsze ryzyko zgonu i powikłań w leczeniu przypadków o ciężkim przebiegu. 
 Są konkretne grupy osób, które powinny być określone przez epidemiologów i lekarzy, ze wskazaniami na 1) grupy wysokiego ryzyka ciężkiego przebiegu choroby (np. z powodu wykonywanego zawodu lub chorób współwystępujących) 2) osoby, które mogą przyczynić się do szybkiego dalszego rozprzestrzeniania epidemii lub łatwo zakażać osoby z grupy ryzyka ciężkiego przebiegu.
- 
-- przykładowe zalecenia: https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-Contract-tracing-scale-up.pdf
-- przyjęta w UE (również w Polsce) definicja kontaktu wysokiego ryzyka: https://www.ecdc.europa.eu/en/covid-19/surveillance/surveillance-definitions
+
+<ul>
+    <li>przykładowe zalecenia <a href="https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-Contract-tracing-scale-up.pdf">ECDC</a></li>
+    <li>przyjęta w UE (również w Polsce) definicja <a href="https://www.ecdc.europa.eu/en/covid-19/surveillance/surveillance-definitions">kontaktu wysokiego ryzyka</a></li>
+</ul>  
 
 #### Rekomendacja 8: Negatywny test albo kwarantanna dla osób powracających z zagranicy
 
