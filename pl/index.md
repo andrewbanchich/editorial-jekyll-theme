@@ -58,7 +58,7 @@ title: Strona Główna
 		<article>
 			<span class="icon fa-line-chart"></span>
 			<div class="content">
-				<h3><a href="/pl/automatic.html">Automatyczna prognoza krótkoterminowa rozwoju pandemii</a></h3>
+				<h3><a href="/pl/automatic.html">Polsko-niemiecki HUB prognoz COVID-19</a></h3>
 				<p>Model grupy MOCOS jest częścią German & Polish COVID-19 Forecast HUB. Znajdziesz tam prognozy rozwoju epidemii na najbliższe 2 tygodnie dla Polski. </p>
 			</div>
 		</article>

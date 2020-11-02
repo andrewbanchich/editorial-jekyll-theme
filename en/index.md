@@ -43,7 +43,7 @@ title: Main Page
 		<article>
 			<span class="icon fa-line-chart"></span>
 			<div class="content">
-				<h3><a href="/en/automatic.html">Automatic Short-term Predictions of Pandemic Developement</a></h3>
+				<h3><a href="/en/automatic.html">COVID-19 German & Polish Forecast HUB</a></h3>
 				<p>The MOCOS model is part of the German & Polish COVID-19 Forecast HUB. You will find there forecasts of the development of the epidemic for the next 2 weeks for Poland.</p>
 
 			</div>

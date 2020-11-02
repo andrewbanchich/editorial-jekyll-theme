@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: de
-title: Automatyczna prognoza krótkoterminowa
+title: COVID-19 Deutsch & Polnisch Forecast HUB
 ---
 
 <p>Das MOCOS-Modell ist Teil des deutsch-polnischen COVID-19-Prognose-HUB. Sie finden dort Prognosen für die Entwicklung der Epidemie für die nächsten 2 Wochen für Polen.</p>

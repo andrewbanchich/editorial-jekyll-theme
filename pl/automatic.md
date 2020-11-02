@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: pl
-title: Automatyczna prognoza krótkoterminowa
+title: Polsko-niemiecki HUB prognoz COVID-19
 ---
 
 <p>Model grupy MOCOS jest częścią German & Polish COVID-19 Forecast HUB. Znajdziesz tam prognozy rozwoju epidemii na najbliższe 2 tygodnie dla Polski.</p>

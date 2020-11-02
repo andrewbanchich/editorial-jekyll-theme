@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: en
-title: Automatic Short-term Predictions of Pandemic Developement 
+title: COVID-19 German & Polish Forecast HUB
 ---
 
 <p>The MOCOS model is part of the German & Polish COVID-19 Forecast HUB. You will find there forecasts of the development of the epidemic for the next 2 weeks for Poland.</p>

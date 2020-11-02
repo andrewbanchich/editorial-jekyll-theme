@@ -43,7 +43,7 @@ title: Hauptseite
 		<article>
 			<span class="icon fa-line-chart"></span>
 			<div class="content">
-				<h3><a href="/de/automatic.html">Automatische Kurzzeit-Prognose der Pandemie-Entwicklung</a></h3>
+				<h3><a href="/de/automatic.html">COVID-19 Deutsch & Polnisch Forecast HUB</a></h3>
 				<p>Das MOCOS-Modell ist Teil des deutsch-polnischen COVID-19-Prognose-HUB. Sie finden dort Prognosen für die Entwicklung der Epidemie für die nächsten 2 Wochen für Polen.</p>
 			</div>
 		</article>
