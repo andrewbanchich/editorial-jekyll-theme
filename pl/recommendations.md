@@ -11,7 +11,7 @@ Epidemię będziemy mogli uznać za zakończoną jeśli przez 14 dni nie będzie
 Celem wszystkich powinno być jak najszybsze doprowadzenie do wygaśnięcia epidemii poprzez redukcję okazji do nowych zakażeń. Jest to nie tylko możliwe, ale i zdecydowanie bardziej opłacalne ekonomicznie i społecznie, niż wydłużanie czasu zagrożenia
 
 <div class="row 90%">
-	<div class="4u 12u$(small)">
+	<div class="4u$ 12u$(small)">
 		<h3>Testuj</h3>
 		<p>Władze powinny prowadzić szerokie testowanie na obecność wirusa, dążąc do zwiększenia wykrywalności zakażeń u osób przechodzących infekcję bezobjawowo lub z łagodnymi symptomami.</p>
 	</div>
@@ -69,6 +69,32 @@ Wdrożone w innych krajach: m.in. Nowa Zelandia, Wielka Brytania, Kanada:
     <li><a href="https://openrepository.aut.ac.nz/bitstream/handle/10292/13334/Living%20in%20bubbles%20during%20the%20coronavirus%20pandemic_%20insights%20from%20New%20Zealand.pdf?sequence=2&isAllowed=y">Nowa Zelandia</a></li>
 </ul>
 
+Sposób działania tego mechanizmu ilustruje następujący rysunek:
+
+<div class="row 70%">
+    <span class="image fit">
+        <img src="/assets/images/reports/20201026/recommendations.png" />
+    </span>
+</div>
+ 
+<div class="row">
+	<div class="4u$ 12u$(small)">
+		<h3>Góra po lewej</h3>
+		<p>Ilustracja losowej struktury kontaktów (niebieskie linie) między osobami (szare małe kółka) tworzącymi gospodarstwa domowe (większe zielone kółka).</p>
+	</div>
+	<div class="4u$ 12u$(small)">
+		<h3>Góra po prawej</h3>
+		<p>Przykładowe rozprzestrzenianie się zakażeń pomiędzy osobami wchodzącymi w skład gospodarstw domowych. Małe czerwone kółko oznacza osobę zakażoną, a duże czerwone kółko oznacza zakażone gospodarstwo domowe.</p>
+    </div>
+	<div class="4u$ 12u$(medium)">
+		<h3>Dół po lewej</h3>
+		<p>Ilustracja rozprzestrzeniania się infekcji z przykładu z góry po prawej po grafie gospodarstw domowych - tu kółka oznaczają gospodarstwa domowe, niebieskie linie oznaczają połączenia kontaktów między gospodarstwami domowymi, a czerwonymi strzałkami zaznaczono kierunek rozprzestrzeniania się wirusa od gospodarstwa domowego uwidocznionego w lewym górnym rogu.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+    		<h3>Dół po prawej</h3>
+    		<p>Ilustracja jak wprowadzenie koncepcji support bubble ograniczających strukturę kontaktów mogłoby pomóc w tej przykładowej sytuacji. Gospodarstwa domowe w obrębie support bubble komunikują się ze sobą, zaś gospodarstwa domowe nie wchodzące w skład bańki przestają się kontaktować fizycznie, dzięki czemu epidemia nie może się propagować swobodnie między gospodarstwami domowymi, a tylko wyłącznie w obrębie jednej bańki gospodarstw domowych.</p>
+    	</div>
+</div>
 
 #### Rekomendacja 3: Przesunięcie godzin przerw w szkole (Strategia dotycząca redukcji kontaktów). 
 
