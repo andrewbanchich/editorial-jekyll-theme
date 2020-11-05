@@ -35,7 +35,7 @@ title: Main Page
 		<article>
 			<span class="icon fa-calculator"></span>
 			<div class="content">
-				<h3><a href="/en/risk.html">COVID-19 Invidivual Risk Assessment</a></h3>
+				<h3><a href="/en/risk.html">COVID-19 Individual Risk Assessment</a></h3>
 				<p>Are you interested in estimating the individual probability of conditional death or hospitalization? 
                 MOCOS members have built a risk model based on data from the first half of the year.</p>
 			</div>
