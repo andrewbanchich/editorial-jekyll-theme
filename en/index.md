@@ -70,5 +70,3 @@ title: Main Page
 		</article>
 {% endfor %}
 </div>
-
-</section>
