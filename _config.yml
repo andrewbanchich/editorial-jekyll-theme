@@ -9,14 +9,14 @@ author: MOCOS International
 street_address: Politechnika Wrocławska, bud. C-3, pok. 203
 city: Wrocław
 state:
-zip_code: 53-227
+zip_code: 53-370
 country: Poland
-phone: +48 71 320 34 33
+phone: +48 71 320 31 21
 
 # Social settings
 500px_url:
 facebook_url:
-github_url:
+github_url: https://github.com/MOCOS-COVID19/
 gitlab_url:
 googleplus_url:
 instagram_url:
