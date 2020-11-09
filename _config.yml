@@ -6,10 +6,10 @@ description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://mocos.pl"
 author: MOCOS International
-street_address: Politechnika Wrocławska, bud. C-3, pok. 203
+street_address: Politechnika Wrocławska, bud. C-3, pok. 204
 city: Wrocław
 state:
-zip_code: 53-370
+zip_code: 50-372
 country: Poland
 phone: +48 71 320 31 21
 
