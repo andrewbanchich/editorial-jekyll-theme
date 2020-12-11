@@ -77,7 +77,7 @@ title: Strona Główna
 		<article>
 			<a href="{{ analysis | absolute_url }}" class="image"><img src="{{ analysis.image_teaser }}" alt="" /></a>
 			<h3>{{ analysis.title }}</h3>
-			<small>{{ post.date  | date: "%Y-%m-%d" }}</small>
+			<small>{{ analysis.date  | date: "%Y-%m-%d" }}</small>
 			<p>{{ analysis.teaser }}</p>
 			<ul class="actions">
 				<li><a href="{{ analysis | absolute_url }}" class="button">Więcej</a></li>
