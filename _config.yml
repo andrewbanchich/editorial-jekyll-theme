@@ -26,6 +26,7 @@ slack_url:
 twitter_url:
 
 # Build settings
+timezone: Europe/Warsaw
 markdown: kramdown
 
 collections:
