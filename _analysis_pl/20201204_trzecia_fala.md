@@ -6,7 +6,7 @@ date: 12.07.2020
 sortable_date: 20201207
 title: Symulacja trzeciej fali 
 teaser: Prognoza długoterminowa rozwoju pandemii w sytuacji rozluźnienia restrykcji w zależności od stopnia osłabienia restrykcji
-image_teaser: /assets/images/reports/20201207/wspolczynnik_polska.png
+image_teaser: /assets/images/reports/20201207/trzecia_fala_60.png
 ---
 
 Na potrzeby porównania różnych efektywności redukcji kontaktów z uwagi na planowane rozluźnienie restrykcji 
