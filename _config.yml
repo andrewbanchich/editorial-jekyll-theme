@@ -36,7 +36,7 @@ collections:
   reports:
     sort_by: date
   analysis_pl:
-    sort_by: sortable_date
+    sort_by: date
     output: true
     permalink: /pl/analysis/:title
   prognosis_pl:
