@@ -5,7 +5,7 @@ category: analiza
 date: 18.12.2020
 sortable_date: 20201218
 title: Symulacja efektu badań przesiewowych na poziomie powiatów 
-teaser: Przedstawiamy wyniki stosowania różnych scenariuszy testów przesiewowych w populacji miejskiej. P
+teaser: Przedstawiamy wyniki stosowania różnych scenariuszy testów przesiewowych w populacji miejskiej.
 image_teaser: /assets/images/reports/20201218/testowanie_10.png
 ---
 
