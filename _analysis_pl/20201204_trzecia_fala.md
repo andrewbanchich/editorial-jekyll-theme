@@ -4,7 +4,8 @@ lang: pl
 category: analiza
 date: 18.12.2020
 sortable_date: 20201218
-title: Symulacja trzeciej fali 
+title: Symulacja trzeciej fali
+hidden: true 
 teaser: Prognoza długoterminowa rozwoju pandemii w sytuacji rozluźnienia restrykcji w zależności od stopnia osłabienia restrykcji
 image_teaser: /assets/images/reports/20201218/trzecia_fala.png
 ---
