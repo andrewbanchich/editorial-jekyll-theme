@@ -112,8 +112,11 @@ Ważnym narzędziem, niezbędnym zarówno w ocenie bieżącej sytuacji, jak też
 
 ### 3.A. Ocena ryzyka trzeciej fali epidemii
 
-<div class="row 96% uniform" style="margin-bottom: 1em;">
-    <div class="12u 12u$(medium)">
+<div class="row uniform" style="margin-bottom: 1em;">
+    <div class="6u 12u$(medium)">
+            <p>Modele umożliwiają rygorystyczną kwantyfikację ryzyka oraz z wyprzedzeniem identyfikują zagrożenia, co umożliwia adekwatną reakcję i przygotowanie odpowiednich działań. W dotyczasowym przebiegu epidemii modele pozwoliły na oszacowanie zagrożenia wiosną 2020 i przewidziały drugą falę epidemii w miesiącach jesiennych 2020. Obecnie modele jednoznacznie wskazują na niebezpieczeństwo trzeciej fali zachorowań, która nastąpi, jeśli w styczniu 2021 ograniczenia zostaną rozluźnione, zanim liczba nowych zakażeń nie zostanie obniżona do poziomu umożliwiającego efektywne testowanie i śledzenie kontaktów. Rysunek 2 rozważa dwa scenariusze A i B różniące się stopniem rozluźnienia restrykcji.</p> 
+        </div>
+    <div class="6u 12u$(medium)">
         <span class="image fit">
             <img src="/assets/images/reports/20201218/trzecia_fala_ab.png" />
         </span>
@@ -121,12 +124,17 @@ Ważnym narzędziem, niezbędnym zarówno w ocenie bieżącej sytuacji, jak też
     </div>
 </div>
 
-Modele umożliwiają rygorystyczną kwantyfikację ryzyka oraz z wyprzedzeniem identyfikują zagrożenia, co umożliwia adekwatną reakcję i przygotowanie odpowiednich działań. W dotyczasowym przebiegu epidemii modele pozwoliły na oszacowanie zagrożenia wiosną  2020 i przewidziały drugą falę epidemii w miesiącach jesiennych 2020. Obecnie modele jednoznacznie wskazują na niebezpieczeństwo trzeciej fali zachorowań, która nastąpi, jeśli w styczniu 2021 ograniczenia zostaną rozluźnione, zanim liczba nowych zakażeń nie zostanie obniżona do poziomu umożliwiającego efektywne testowanie i śledzenie kontaktów. Rysunek 2 rozważa dwa scenariusze A i B różniące się stopniem rozluźnienia restrykcji.
+
  
 ### 3.B. Analiza porównawcza scenariuszy szczepień
 
-<div class="row 96% uniform" style="margin-bottom: 1em;">
-    <div class="12u 12u$(medium)">
+<div class="row uniform" style="margin-bottom: 1em;">
+    <div class="6u 12u$(medium)">
+        <p>Wykorzystując modelowanie matematyczne zbadaliśmy wpływ szczepień na dalszy rozwój epidemii w Polsce. Rozważmy trzy teoretyczne scenariusze: wszystkie one zakładają znaczne rozluźnienie restrykcji w dniu 15.02.2020, które doprowadza do trzeciej fali epidemii osiągającej swoje maksimum w połowie kwietnia. Ta hipotetyczna trzecia fala epidemii osiąga największe rozmiary w scenariuszu bez zastosowania szczepień ochronnych (niebieska linia). Wpływ zaszczepienia ok 5 mln obywateli w okresie do 01.02.2020 r, pokazany jest w dwóch wariantach: szczepienie obejmuje seniorów (pomarańczowa linia) lub losowo wybrane osoby dorosłe (zielona linia).</p> 
+        <p>Zauważmy, że zaszczepienie seniorów zmniejsza falę zachorowań w mniejszym stopniu niż zaszczepienie 5 mln osób dorosłych, jednak w drastyczny sposób ogranicza hospitalizacje oraz umieralność. Z tego względu priorytetem powinno być zaszczepienie osób starszych. Co więcej, wyraźnie widać, że rozluźnienie restrykcji w okresie pierwszej fazy szczepień jest zdecydowanie przedwczesne, a nawet może uniemożliwić wykonanie drugiej fazy szczepień ze względu na masywny przyrost zachorowań i związane z tym przekroczenie progu wydolności służby zdrowia, jak i zwiększone ryzyko zakażenia w trakcie szczepień.</p> 
+        <p>W alternatywnym scenariuszu, nie zakładającym rozluźnienia restrykcji (nie pokazany na rysunkach), wpływ szczepienia na liczby stwierdzonych przypadków jest prawie wcale niewidoczny i objawia się on dopiero w statystykach hospitalizacji oraz zgonów w późniejszym okresie. Jest to ważna wskazówka, jak należy monitorować i interpretować dane epidemiologiczne w trakcie akcji szczepienia społeczeństwa.</p> 
+    </div>
+    <div class="6u 12u$(medium)">
         <span class="image fit">
             <img src="/assets/images/reports/20201218/scenariusze_szczepien.png" />
         </span>
@@ -134,11 +142,6 @@ Modele umożliwiają rygorystyczną kwantyfikację ryzyka oraz z wyprzedzeniem i
     </div>
 </div>
 
-Wykorzystując modelowanie matematyczne zbadaliśmy wpływ szczepień na dalszy rozwój epidemii w Polsce. Rozważmy trzy teoretyczne scenariusze: wszystkie one zakładają znaczne rozluźnienie restrykcji w dniu 15.02.2020, które doprowadza do trzeciej fali epidemii osiągającej swoje maksimum w połowie kwietnia. Ta hipotetyczna trzecia fala epidemii osiąga największe rozmiary w scenariuszu bez zastosowania szczepień ochronnych (niebieska linia). Wpływ zaszczepienia ok 5 mln obywateli w okresie do 01.02.2020 r, pokazany jest w dwóch wariantach: szczepienie obejmuje seniorów (pomarańczowa linia) lub losowo wybrane osoby dorosłe (zielona linia). 
-
-Zauważmy, że zaszczepienie seniorów zmniejsza falę zachorowań w mniejszym stopniu niż zaszczepienie 5 mln osób dorosłych, jednak w drastyczny sposób ogranicza hospitalizacje oraz umieralność. Z tego względu priorytetem powinno być zaszczepienie osób starszych. Co więcej, wyraźnie widać, że rozluźnienie restrykcji w okresie pierwszej fazy szczepień jest zdecydowanie przedwczesne, a nawet może uniemożliwić wykonanie drugiej fazy szczepień ze względu na masywny przyrost zachorowań i związane z tym przekroczenie progu wydolności służby zdrowia, jak i zwiększone ryzyko zakażenia w trakcie szczepień. 
-
-W alternatywnym scenariuszu, nie zakładającym rozluźnienia restrykcji (nie pokazany na rysunkach), wpływ szczepienia na liczby stwierdzonych przypadków jest prawie wcale niewidoczny i objawia się on dopiero w statystykach hospitalizacji oraz zgonów w późniejszym okresie. Jest to ważna wskazówka, jak należy monitorować i interpretować dane epidemiologiczne w trakcie akcji szczepienia społeczeństwa. 
 
 
 ## 4. Zalecenia do optymalnej kontroli epidemii
