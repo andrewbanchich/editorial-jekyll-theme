@@ -16,10 +16,17 @@
     gtag('config', 'UA-180399871-1');
   </script>
 
+  {% if page.image_teaser %}
   <meta name="twitter:card" content="summary_large_image">
+  {% else %}
+  <meta name="twitter:card" content="summary">
+  {% endif %}
+
   <!--meta name="twitter:site" content="@nytimes"-->
   <!-- meta name="twitter:creator" content="@SarahMaslinNir"-->
   <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:description" content="{{ page.teaser }}">
+  {% if page.image_teaser %}
   <meta name="twitter:image" content="{{ page.image_teaser | absolute_url }}">
+  {% endif %}
 </head>
