@@ -3492,7 +3492,7 @@
 			max-width: 110em; /* instead of 110em */
 		}
 
-		#main > .inner-content {
+		#main .inner-content {
 			max-width: 1160px;
 		}
 

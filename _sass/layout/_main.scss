@@ -26,6 +26,10 @@
 			}
 		}
 
+		.inner-content {
+			max-width: 1160px;
+		}
+
 		@include breakpoint(xlarge) {
 			> .inner {
 				@include padding(0, 5em);
