@@ -62,25 +62,16 @@ title: Strona Główna
 				<p>Model grupy MOCOS jest częścią German & Polish COVID-19 Forecast HUB. Znajdziesz tam prognozy rozwoju epidemii na najbliższe 2 tygodnie dla Polski. </p>
 			</div>
 		</article>
+		<article>
+			<span class="icon fa-trophy"></span>
+			<div class="content">
+				<h3><a href="https://www.wroclaw.pl/30-kreatywnych-wroclawia/2020/grupa-mocos">Grupa MOCOS nagrodzona w konkursie 30 kreatywnych Wrocławian</a></h3>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/TSNcEo1VtlU?start=2400" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+		</article>
 	</div>
 </section>
 
-<section>
-
-<div class="row">
-    <div class="4u$ 12u$(small)">
-	    <span class="image fit">
-	        <img src="/assets/images/30_kreatywnych.jpg" />
-	    </span>
-	</div>
-	<div class="8u 12u$(small)">
-		<h3>Grupa MOCOS nagrodzona w konkursie 30 kreatywnych Wrocławian</h3>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/TSNcEo1VtlU?start=2400" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		<a class="button" href="https://www.youtube.com/watch?t=2400&v=TSNcEo1VtlU">Wystąpienie prof. Krugera</a>
-	</div>	
-</div>
-
-</section>
 
 <!-- Section -->
 <section>
