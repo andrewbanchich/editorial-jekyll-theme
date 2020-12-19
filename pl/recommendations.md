@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: pl
-title: Quo vadis coronavirus: rekomendacje zespołów epidemiologii obliczeniowej na rok 2021
+title: Quo vadis coronavirus - rekomendacje zespołów epidemiologii obliczeniowej na rok 2021
 teaser: Interdyscyplinarne grupy naukowców z Uniwersytetu Warszawskiego, Uniwersytetu Wrocławskiego, Uniwersytetu Halle-Wittenberg, Politechniki Wrocławskiej, Politechniki Warszawskiej i Narodowego Instytutu Zdrowia Publicznego - PZH zajmujące się epidemiologią obliczeniową rekomendują rządowi jak walczyć z epidemią w najbliższym czasie oraz wskazanie działań koniecznych dla efektywnego radzenia sobie z podobnymi epidemiami w przyszłości. 
 ---
 Naszym celem jest przedstawienie rekomendacji jak walczyć z epidemią w najbliższym czasie oraz wskazanie działań koniecznych dla efektywnego radzenia sobie z podobnymi epidemiami w przyszłości. Chcemy wskazać na istotne zjawiska i mechanizmy, których zrozumienie może pomóc w lepszym podejmowaniu decyzji administracyjnych na każdym poziomie i obszarze odpowiedzialności. 
