@@ -5,7 +5,7 @@ category: analiza
 date: 18.12.2020
 sortable_date: 20201218
 title: Łączna tygodniowa liczba zgonów w Polsce
-teaser: Poniższy wykres przedstawia statystyki zgonów na bazie danych z urzędu statystycznego oraz od zespołu BIQdatagazeta.pl (dla tygodni 49 i 50). 
+teaser: Poniższy wykres przedstawia statystyki zgonów na bazie danych z urzędu statystycznego oraz od zespołu <a href="http://biqdata.pl">biqdata.pl</a> (dla tygodni 49 i 50). 
 image_teaser: /assets/images/reports/20201218/zgony_polska.png
 ---
 
