@@ -12,23 +12,23 @@ Naszym celem jest przedstawienie rekomendacji jak walczyć z epidemią w najbli�
     <div class="posts">
 		<article style="width: calc(50% - 6em)">
 			<h3>Stan obecny</h3>
-			<ul class="actions">
+			<ul>
 				<li>wysoka liczba zakażeń w sezonie jesiennym</li>
 				<li>bardzo wysoka liczba zgonów nadmiarowych, bezpośrednio i pośrednio związanych z pandemią</li>
 				<li>zmniejszenie poziomu restrykcji oraz rosnący opór społeczny</li>
 			</ul>
 		</article>
-		<article style="display:none;"></article>
-		<article style="width: calc(50% - 6em); margin-bottom: 0;">
+		<article style="width: calc(50% - 6em);">
             <h3>Scenariusze</h3>
-            <ul class="actions">
+            <ul>
                 <li>ryzyko trzeciej fali</li>
                 <li>strategie przeprowadzania szczepień.</li>
             </ul>
         </article>
+        <article style="display:none"></article>
 		<article style="width: calc(50% - 6em); margin: 0 0 6em 6em;">
             <h3>Problemy</h3>
-            <ul class="actions">
+            <ul>
                 <li>niskie rezerwy ludzkie oraz sprzętowe,</li>
                 <li>uboga kampania informacyjna i niska dostępność danych,</li>
                 <li>niedostateczny poziom testowania i nieefektywne śledzenie kontaktów.</li>
@@ -36,7 +36,7 @@ Naszym celem jest przedstawienie rekomendacji jak walczyć z epidemią w najbli�
         </article>
         <article style="width: calc(50% - 6em); margin-bottom: 0;">
             <h3>Zalecenia</h3>
-            <ul class="actions">
+            <ul>
                 <li>częste i celowe testowanie,</li>
                 <li>inteligentne ograniczanie kontaktów oraz śledzenie kontaktów osób zakażonych,</li>
                 <li>poprawa komunikacji dotyczącej szczepień i wdrożenie systemu monitorowania działań niepożądanych,</li>
