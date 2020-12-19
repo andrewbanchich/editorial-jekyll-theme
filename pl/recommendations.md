@@ -4,6 +4,8 @@ lang: pl
 title: Rekomendacje zespołów epidemiologii obliczeniowej na rok 2021
 ---
 
+Naszym celem jest przedstawienie rekomendacji jak walczyć z epidemią w najbliższym czasie oraz wskazanie działań koniecznych dla efektywnego radzenia sobie z podobnymi epidemiami w przyszłości. Chcemy wskazać na istotne zjawiska i mechanizmy, których zrozumienie może pomóc w lepszym podejmowaniu decyzji administracyjnych na każdym poziomie i obszarze odpowiedzialności. 
+
 <b>Niniejszy dokument powstał  z inicjatywy interdyscyplinarnej grupy naukowców z Uniwersytetu Warszawskiego, Uniwersytetu Wrocławskiego, Uniwersytetu Halle-Wittenberg, Politechniki Wrocławskiej, Politechniki Warszawskiej i Narodowego Instytutu Zdrowia Publicznego - PZH zajmującej się epidemiologią obliczeniową i modelowaniem przebiegu epidemii COVID-19 w Polsce.</b>
 
 <section>
@@ -16,6 +18,7 @@ title: Rekomendacje zespołów epidemiologii obliczeniowej na rok 2021
 				<li>zmniejszenie poziomu restrykcji oraz rosnący opór społeczny</li>
 			</ul>
 		</article>
+		<article style="display:none;"></article>
 		<article style="width: calc(50% - 6em); margin-bottom: 0;">
             <h3>Scenariusze</h3>
             <ul class="actions">
@@ -43,8 +46,6 @@ title: Rekomendacje zespołów epidemiologii obliczeniowej na rok 2021
     </div>
 
 </section>
-
-Naszym celem jest przedstawienie rekomendacji jak walczyć z epidemią w najbliższym czasie oraz wskazanie działań koniecznych dla efektywnego radzenia sobie z podobnymi epidemiami w przyszłości. Chcemy wskazać na istotne zjawiska i mechanizmy, których zrozumienie może pomóc w lepszym podejmowaniu decyzji administracyjnych na każdym poziomie i obszarze odpowiedzialności. 
 
 Wzrost liczby zachorowań w sezonie jesienno-zimowym doprowadził do poważnego zagrożenia dla życia i zdrowia obywateli. Chociaż obecnie sytuacja ulega poprawie, nadal obserwowana jest zwiększona umieralność w społeczeństwie. Nasze badania wskazują, że dotychczas tylko około 10% populacji przeszło infekcję. Jeśli nie zostaną podjęte odpowiednie środki prewencyjne liczba zgonów może wzrosnąć. Pojawienie się szczepionki daje nadzieję na opanowanie epidemii, ale proces zaszczepienia wszystkich chętnych w populacji będzie trwać kilka miesięcy. To oznacza, że potrzebna jest ‘strategia przetrwania epidemii’ na najbliższych kilka miesięcy. Trzecia fala epidemii jest bardzo prawdopodobnym zagrożeniem, zwłaszcza jeśli w okresie Świąt i w styczniu nastąpi rozluźnienie restrykcji. W optymistycznym scenariuszu stopniowy powrót do normalności może nastąpić dopiero pod koniec 2021 r. W poniższym tekście podajemy zalecenia, jak możemy w tym przejściowym czasie optymalnie kontrolować epidemię i jakie dane są do tego potrzebne. 
 
@@ -208,39 +209,58 @@ Przykłady wykorzystywania wskaźników: zmniejszanie obostrzeń jeśli łączni
 
 Rekomendujemy wykorzystanie kilku grup wskaźników:
 
+<section>
+    <div class="posts">
+		<article>
+		    <h4 id="i-wskaźniki-intensywności-transmisji">I. Wskaźniki intensywności transmisji</h4>
+		    <ol>
+              <li>7-dniowa zapadalność rejestrowana</li>
+              <li>7-dniowy odsetek wyników dodatnich wśród wykonanych testów</li>
+              <li>7-dniowy wskaźnik nowych hospitalizacji na populację</li>
+              <li>7-dniowa umieralność nadmiarowa i umieralność z powodu COVID-19</li>
+              <li>Efektywna liczba reprodukcji wirusa</li>
+              <li>Prewalencja rzeczywista - odsetek dodatnich testów na obecność wirusa (pcr lub Ag) w losowo dobranej próbie; odsetek dodatnich testów na obecność przeciwciał</li>
+            </ol>
+        </article>
+        <article>
+            <h4 id="ii-wskaźniki-wydolności-systemu-testowania---śledzenia-kontaktów">II. Wskaźniki wydolności systemu testowania - śledzenia kontaktów</h4>
+            <ol>
+              <li>7-dniowy wskaźnik liczby wykonywanych testów na populację</li>
+              <li>7-dniowy odsetek przypadków, dla których brak jest udokumentowanego kontaktu z zakażonym i nie są częścią ogniska</li>
+              <li>7-dniowy wskaźnik liczby osób w kwarantannie przypadającej na jeden rozpoznany przypadek</li>
+            </ol>
+        </article>
+        <article>
+            <h4 id="iii-wskaźniki-wydolności-systemu-opieki-zdrowotnej-dzienne">III. Wskaźniki wydolności systemu opieki zdrowotnej (dzienne)</h4>
+            <ol>
+              <li>Odsetek zajętych łóżek szpitalnych</li>
+              <li>Odsetek zajętych łóżek OIT</li>
+              <li>Odsetek zajętych respiratorów</li>
+              <li>Liczba personelu przypadającego na łóżko (wykluczając osoby w izolacji, kwarantannie i na zwolnieniach z innych przyczyn) - w podziale na łóżka w szpitalach różnych stopni zaangażowanych w zwalczanie COVID-19</li>
+            </ol>
+        </article>
+        <article>
+            <h4 id="iv-wskaźniki-behawioralne">IV. Wskaźniki behawioralne</h4>
+            <ol>
+              <li>wskaźniki mobilności</li>
+              <li>odsetek osób stosujących się do wprowadzonych ograniczeń</li>
+              <li>wskaźnik liczby dziennych kontaktów / struktury tych kontaktów</li>
+              <li>struktura zakażeń według typu i miejsca kontaktu, który doprowadził do zakażenia</li>
+            </ol>
+        </article>
+        <article>
+            <h4 id="v-inne-wskaźniki-alarmowe">V. Inne wskaźniki alarmowe</h4>
+            <ol>
+              <li>7-dniowa zapadalność wśród personelu służby zdrowia</li>
+              <li>7-dniowa zachorowalność wśród nauczycieli</li>
+              <li>Wystąpienie ognisk związanych ze służbą zdrowia i/lub w ośrodkach opieki długoterminowej</li>
+              <li>Odsetek ozdrowieńców, u których utrzymują się objawy przewlekłego COVID-19</li>
+              <li>Wskaźnik re-infekcji lub podejrzeń reinfekcji w kohorcie ozdrowieńców.</li>
+            </ol>
+        </article>
+    </div>
+</section>
 
-#### I. Wskaźniki intensywności transmisji 
-1. 7-dniowa zapadalność rejestrowana
-2. 7-dniowy odsetek wyników dodatnich wśród wykonanych testów
-3. 7-dniowy wskaźnik nowych hospitalizacji na populację
-4. 7-dniowa umieralność nadmiarowa i umieralność z powodu COVID-19
-5. Efektywna liczba reprodukcji wirusa
-6. Prewalencja rzeczywista - odsetek dodatnich testów na obecność wirusa (pcr lub Ag) w losowo dobranej próbie; odsetek dodatnich testów na obecność przeciwciał
-
-#### II. Wskaźniki wydolności systemu testowania - śledzenia kontaktów
-1. 7-dniowy wskaźnik liczby wykonywanych testów na populację
-2. 7-dniowy odsetek przypadków, dla których brak jest udokumentowanego kontaktu z zakażonym i nie są częścią ogniska
-3. 7-dniowy wskaźnik liczby osób w kwarantannie przypadającej na jeden rozpoznany przypadek
-
-#### III. Wskaźniki wydolności systemu opieki zdrowotnej (dzienne)
-1. Odsetek zajętych łóżek szpitalnych
-2. Odsetek zajętych łóżek OIT
-3. Odsetek zajętych respiratorów
-4. Liczba personelu przypadającego na łóżko (wykluczając osoby w izolacji, kwarantannie i na zwolnieniach z innych przyczyn) - w podziale na łóżka w szpitalach różnych stopni zaangażowanych w zwalczanie COVID-19
-
-
-#### IV. Wskaźniki behawioralne
-1. wskaźniki mobilności
-2. odsetek osób stosujących się do wprowadzonych ograniczeń
-3. wskaźnik liczby dziennych kontaktów / struktury tych kontaktów
-4. struktura zakażeń według typu i miejsca kontaktu, który doprowadził do zakażenia
-
-#### V. Inne wskaźniki alarmowe
-1. 7-dniowa zapadalność wśród personelu służby zdrowia
-2. 7-dniowa zachorowalność wśród nauczycieli
-3. Wystąpienie ognisk związanych ze służbą zdrowia i/lub w ośrodkach opieki długoterminowej
-4. Odsetek ozdrowieńców, u których utrzymują się objawy przewlekłego COVID-19
-5. Wskaźnik re-infekcji lub podejrzeń reinfekcji w kohorcie ozdrowieńców.
 
 <small>Autorzy i podpisani: Aneta Afelt UW, Przemysław Biecek PW, UW, MOCOS, Marcin Bodych PWr, MOCOS, Anna Gambin UW MIMUW, Tyll Krüger PWr, MOCOS, Agata Migalska MOCOS, Rafał Mikołajczyk Universität Halle-Wittenberg, Barbara Pabjan UWr, MOCOS, Franciszek Rakowski UW, Magdalena Rosińska NIZP-PZH, Jędrzej Nowosielski UW, Jakub Zieliński UW, Piotr Szymański PWr, MOCOS</small>
 
