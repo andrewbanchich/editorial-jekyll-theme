@@ -62,8 +62,8 @@ Rozwój nowych zakażeń we wszystkich grupach wiekowych we wrześniu i paździe
 - czynniki społeczne (spadek skłonności do przestrzegania środków prewencyjnych oraz częstsze przebywanie w zamkniętych pomieszczeniach w okresie jesienno-zimowym). 
 
 
-<div class="row 96% uniform">
-    <div class="8u 12u$(medium)">
+<div class="row 96% uniform" style="margin-bottom: 1em;">
+    <div class="12u 12u$(medium)">
         <span class="image fit">
             <img src="/assets/images/reports/20201218/zgony_polska.png" />
         </span>
@@ -72,8 +72,6 @@ Rozwój nowych zakażeń we wszystkich grupach wiekowych we wrześniu i paździe
 </div>
 
 Dynamiczny wzrost zakażeń w Polsce, zarówno pod względem skali jak i tempa, spowodował poważne problemy w systemie służby zdrowia. Wskazuje na to wyraźnie ogólna liczba zgonów odnotowana w tym okresie. W porównaniu do poprzednich lat, liczba zgonów na przełomie października i listopada tego roku była prawie dwukrotnie wyższa. 
-
-
 
 Obecny spadek liczby zgonów pokazuje, że wprowadzone ograniczenia kontaktów zaczęły przynosić efekty. 
 
@@ -114,7 +112,7 @@ Ważnym narzędziem, niezbędnym zarówno w ocenie bieżącej sytuacji, jak też
 
 ### 3.A. Ocena ryzyka trzeciej fali epidemii
 
-<div class="image left">
+<div class="row 96% uniform" style="margin-bottom: 1em;">
     <div class="12u 12u$(medium)">
         <span class="image fit">
             <img src="/assets/images/reports/20201218/trzecia_fala_ab.png" />
@@ -125,9 +123,9 @@ Ważnym narzędziem, niezbędnym zarówno w ocenie bieżącej sytuacji, jak też
 
 Modele umożliwiają rygorystyczną kwantyfikację ryzyka oraz z wyprzedzeniem identyfikują zagrożenia, co umożliwia adekwatną reakcję i przygotowanie odpowiednich działań. W dotyczasowym przebiegu epidemii modele pozwoliły na oszacowanie zagrożenia wiosną  2020 i przewidziały drugą falę epidemii w miesiącach jesiennych 2020. Obecnie modele jednoznacznie wskazują na niebezpieczeństwo trzeciej fali zachorowań, która nastąpi, jeśli w styczniu 2021 ograniczenia zostaną rozluźnione, zanim liczba nowych zakażeń nie zostanie obniżona do poziomu umożliwiającego efektywne testowanie i śledzenie kontaktów. Rysunek 2 rozważa dwa scenariusze A i B różniące się stopniem rozluźnienia restrykcji.
  
-<h3 style="clear: both">3.B. Analiza porównawcza scenariuszy szczepień</h3>
+### 3.B. Analiza porównawcza scenariuszy szczepień
 
-<div class="image right">
+<div class="row 96% uniform" style="margin-bottom: 1em;">
     <div class="12u 12u$(medium)">
         <span class="image fit">
             <img src="/assets/images/reports/20201218/scenariusze_szczepien.png" />
