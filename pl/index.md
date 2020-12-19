@@ -26,6 +26,20 @@ title: Strona Główna
 
 {% endfor %}
 
+<div class="row">
+	<div class="8u 12u$(small)">
+		<h3>Grupa MOCOS nagrodzona w konkursie 30 kreatywnych Wrocławian</h3>
+		<p></p>
+		<a class="button" href="https://www.wroclaw.pl/30-kreatywnych-wroclawia/2020/grupa-mocos">Informacja prasowa</a>
+		<a class="button" href="https://www.youtube.com/watch?t=2400&v=TSNcEo1VtlU">Wystąpienie prof. Krugera</a>
+	</div>
+	<div class="4u$ 12u$(small)">
+	    <span class="image fit">
+	        <img src="/assets/images/30_kreatywnych.jpg" />
+	    </span>
+	</div>
+</div>
+
 <!-- Section -->
 <section>
 	<header class="major">
