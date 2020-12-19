@@ -80,9 +80,9 @@ Obecny spadek liczby zgonów pokazuje, że wprowadzone ograniczenia kontaktów z
 ## 2. Problemy obecnej sytuacji
 
 <ol style="list-style: upper-alpha">
-<li>A. Strategia walki z epidemią niespójna z kondycją służby zdrowia</li>
-<li>B. Procedury zarządzania i monitorowania epidemii (zbieranie danych)</li>
-<li>C. Percepcja społeczna epidemii</li>
+<li>Strategia walki z epidemią niespójna z kondycją służby zdrowia</li>
+<li>Procedury zarządzania i monitorowania epidemii (zbieranie danych)</li>
+<li>Percepcja społeczna epidemii</li>
 </ol>
 
 Problemy obecnej sytuacji wynikają z niewystarczających zasobów służby zdrowia, z niewystarczającej kampanii informacyjnej oraz z postaw społecznych wobec epidemii.
@@ -106,8 +106,8 @@ Poziom poczucia zagrożenia i skłonność do stosowania środków prewencyjnych
 
 ## 3. Scenariusze na przyszłość w oparciu o modele epidemiologiczne.
 <ol style="list-style: upper-alpha">
-<li>A. Ocena ryzyka trzeciej fali epidemii</li>
-<li>B. Analiza porównawcza scenariuszy szczepień</li>
+<li>Ocena ryzyka trzeciej fali epidemii</li>
+<li>Analiza porównawcza scenariuszy szczepień</li>
 </ol>
 
 Ważnym narzędziem, niezbędnym zarówno w ocenie bieżącej sytuacji, jak też przy wyborze odpowiednich strategii i przewidywaniu przyszłego rozwoju epidemii, są matematyczne modele epidemiologiczne. Modelowanie epidemii umożliwia racjonalne, oparte na wiedzy i danych przewidywanie jej rozwoju, oraz badanie hipotetycznych scenariuszy, które wynikają ze stosowania różnych restrykcji administracyjnych i strategii szczepień. Modele, które tu przedstawiamy, udowodniły swoją skuteczność w trakcie bieżącej epidemii. Chcemy podkreślić, że używane przez nas modele wykorzystują wszystkie dostępne rzeczywiste obserwacje i mimo tego, że są oparte na kilku różnych podejściach (równania różniczkowe zwyczajne, modele sieciowe, modele agentowe, modele oparte o uczenie maszynowe), dają zbliżone wyniki, co uwiarygadnia ich działanie. 
@@ -146,12 +146,12 @@ W alternatywnym scenariuszu, nie zakładającym rozluźnienia restrykcji (nie po
 ## 4. Zalecenia do optymalnej kontroli epidemii
 
 <ol style="list-style: upper-alpha">
-<li>A. Testowanie i śledzenie kontaktów</li> 
-<li>B. Testowanie i kwarantanna dla osób powracających z zagranicy</li> 
-<li>C. Redukcja kontaktów i dystans </li> 
-<li>D. Szczepienia: jak najszybciej i jak najszerzej</li>  
-<li>E. Strategia zbierania i udostępniania danych</li> 
-<li>F. Wskaźniki monitorowania epidemii</li>
+<li>Testowanie i śledzenie kontaktów</li> 
+<li>Testowanie i kwarantanna dla osób powracających z zagranicy</li> 
+<li>Redukcja kontaktów i dystans </li> 
+<li>Szczepienia: jak najszybciej i jak najszerzej</li>  
+<li>Strategia zbierania i udostępniania danych</li> 
+<li>Wskaźniki monitorowania epidemii</li>
 </ol> 
 
 Nasze postulaty opierają się na selekcji efektywnych działań podjętych w innych krajach oraz na wnioskach wypływających z modelowania matematycznego. 
