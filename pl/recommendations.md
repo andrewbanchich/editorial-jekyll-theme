@@ -8,7 +8,7 @@ title: Rekomendacje zespołów epidemiologii obliczeniowej na rok 2021
 
 <section>
     <div class="posts">
-		<article>
+		<article style="width: calc(50% - 6em)">
 			<h3>Stan obecny</h3>
 			<ul class="actions">
 				<li>wysoka liczba zakażeń w sezonie jesiennym</li>
@@ -16,14 +16,14 @@ title: Rekomendacje zespołów epidemiologii obliczeniowej na rok 2021
 				<li>zmniejszenie poziomu restrykcji oraz rosnący opór społeczny</li>
 			</ul>
 		</article>
-		<article>
+		<article style="width: calc(50% - 6em); margin-bottom: 0;">
             <h3>Scenariusze</h3>
             <ul class="actions">
                 <li>ryzyko trzeciej fali</li>
                 <li>strategie przeprowadzania szczepień.</li>
             </ul>
         </article>
-		<article>
+		<article style="width: calc(50% - 6em); margin: 0 0 6em 6em;">
             <h3>Problemy</h3>
             <ul class="actions">
                 <li>niskie rezerwy ludzkie oraz sprzętowe,</li>
@@ -31,7 +31,7 @@ title: Rekomendacje zespołów epidemiologii obliczeniowej na rok 2021
                 <li>niedostateczny poziom testowania i nieefektywne śledzenie kontaktów.</li>
             </ul>
         </article>
-        <article>
+        <article style="width: calc(50% - 6em); margin-bottom: 0;">
             <h3>Zalecenia</h3>
             <ul class="actions">
                 <li>częste i celowe testowanie,</li>
@@ -66,7 +66,7 @@ Dynamiczny wzrost zakażeń w Polsce, zarówno pod względem skali jak i tempa, 
 <div class="row 96% uniform">
     <div class="12u 12u$(medium)">
         <span class="image fit">
-            <img src="/assets/images/reports/20201218/zgony_polska.png.png" />
+            <img src="/assets/images/reports/20201218/zgony_polska.png" />
         </span>
         <small>Rysunek 1. Liczba zgonów w latach 2011-2020 oraz udział zgonów z powodu COVID-19 w zgonach w 2020 roku. Dane za GUS uzyskane przy wsparciu <a href="http://biqdata.pl">zespołu BIQdata</a>.</small>
     </div>
