@@ -2,11 +2,13 @@
 layout: page
 lang: pl
 title: Rekomendacje zespołów epidemiologii obliczeniowej na rok 2021
+image_teaser: /assets/images/reports/20201218/zgony_polska.png
+description: Interdyscyplinarne grupy naukowców z Uniwersytetu Warszawskiego, Uniwersytetu Wrocławskiego, Uniwersytetu Halle-Wittenberg, Politechniki Wrocławskiej, Politechniki Warszawskiej i Narodowego Instytutu Zdrowia Publicznego - PZH zajmujące się epidemiologią obliczeniową rekomendują rządowi jak walczyć z epidemią w najbliższym czasie oraz wskazanie działań koniecznych dla efektywnego radzenia sobie z podobnymi epidemiami w przyszłości. 
 ---
 
 Naszym celem jest przedstawienie rekomendacji jak walczyć z epidemią w najbliższym czasie oraz wskazanie działań koniecznych dla efektywnego radzenia sobie z podobnymi epidemiami w przyszłości. Chcemy wskazać na istotne zjawiska i mechanizmy, których zrozumienie może pomóc w lepszym podejmowaniu decyzji administracyjnych na każdym poziomie i obszarze odpowiedzialności. 
 
-<b>Niniejszy dokument powstał  z inicjatywy interdyscyplinarnej grupy naukowców z Uniwersytetu Warszawskiego, Uniwersytetu Wrocławskiego, Uniwersytetu Halle-Wittenberg, Politechniki Wrocławskiej, Politechniki Warszawskiej i Narodowego Instytutu Zdrowia Publicznego - PZH zajmującej się epidemiologią obliczeniową i modelowaniem przebiegu epidemii COVID-19 w Polsce.</b>
+<b>Niniejszy dokument powstał z inicjatywy interdyscyplinarnej grupy naukowców z Uniwersytetu Warszawskiego, Uniwersytetu Wrocławskiego, Uniwersytetu Halle-Wittenberg, Politechniki Wrocławskiej, Politechniki Warszawskiej i Narodowego Instytutu Zdrowia Publicznego - PZH zajmującej się epidemiologią obliczeniową i modelowaniem przebiegu epidemii COVID-19 w Polsce.</b>
 
 <section>
     <div class="posts">
