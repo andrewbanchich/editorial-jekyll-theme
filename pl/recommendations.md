@@ -8,44 +8,40 @@ Naszym celem jest przedstawienie rekomendacji jak walczyć z epidemią w najbli�
 
 <b>Niniejszy dokument powstał z inicjatywy interdyscyplinarnej grupy naukowców z Uniwersytetu Warszawskiego, Uniwersytetu Wrocławskiego, Uniwersytetu Halle-Wittenberg, Politechniki Wrocławskiej, Politechniki Warszawskiej i Narodowego Instytutu Zdrowia Publicznego - PZH zajmującej się epidemiologią obliczeniową i modelowaniem przebiegu epidemii COVID-19 w Polsce.</b>
 
-<section>
-    <div class="posts">
-		<article style="width: calc(50% - 6em)">
-			<h3>Stan obecny</h3>
-			<ul>
-				<li>wysoka liczba zakażeń w sezonie jesiennym</li>
-				<li>bardzo wysoka liczba zgonów nadmiarowych, bezpośrednio i pośrednio związanych z pandemią</li>
-				<li>zmniejszenie poziomu restrykcji oraz rosnący opór społeczny</li>
-			</ul>
-		</article>
-		<article style="width: calc(50% - 6em);">
-            <h3>Scenariusze</h3>
-            <ul>
-                <li>ryzyko trzeciej fali</li>
-                <li>strategie przeprowadzania szczepień.</li>
-            </ul>
-        </article>
-        <article style="display:none"></article>
-		<article style="width: calc(50% - 6em); margin: 0 0 6em 6em;">
-            <h3>Problemy</h3>
-            <ul>
-                <li>niskie rezerwy ludzkie oraz sprzętowe,</li>
-                <li>uboga kampania informacyjna i niska dostępność danych,</li>
-                <li>niedostateczny poziom testowania i nieefektywne śledzenie kontaktów.</li>
-            </ul>
-        </article>
-        <article style="width: calc(50% - 6em); margin-bottom: 0;">
-            <h3>Zalecenia</h3>
-            <ul>
-                <li>częste i celowe testowanie,</li>
-                <li>inteligentne ograniczanie kontaktów oraz śledzenie kontaktów osób zakażonych,</li>
-                <li>poprawa komunikacji dotyczącej szczepień i wdrożenie systemu monitorowania działań niepożądanych,</li>
-                <li>dostępność wysokiej jakości danych o sytuacji epidemiologicznej w Polsce.</li>
-            </ul>
-        </article>
+<div class="row">
+    <div class="6u 12u$(medium)">
+        <h3>Stan obecny</h3>
+        <ul>
+            <li>wysoka liczba zakażeń w sezonie jesiennym</li>
+            <li>bardzo wysoka liczba zgonów nadmiarowych, bezpośrednio i pośrednio związanych z pandemią</li>
+            <li>zmniejszenie poziomu restrykcji oraz rosnący opór społeczny</li>
+        </ul>
     </div>
-
-</section>
+        <div class="6u 12u$(medium)">
+        <h3>Scenariusze</h3>
+        <ul>
+            <li>ryzyko trzeciej fali</li>
+            <li>strategie przeprowadzania szczepień.</li>
+        </ul>
+    </div>
+    <div class="6u 12u$(medium)">
+        <h3>Problemy</h3>
+        <ul>
+            <li>niskie rezerwy ludzkie oraz sprzętowe,</li>
+            <li>uboga kampania informacyjna i niska dostępność danych,</li>
+            <li>niedostateczny poziom testowania i nieefektywne śledzenie kontaktów.</li>
+        </ul>
+    </div>
+    <div class="6u 12u$(medium)">
+        <h3>Zalecenia</h3>
+        <ul>
+            <li>częste i celowe testowanie,</li>
+            <li>inteligentne ograniczanie kontaktów oraz śledzenie kontaktów osób zakażonych,</li>
+            <li>poprawa komunikacji dotyczącej szczepień i wdrożenie systemu monitorowania działań niepożądanych,</li>
+            <li>dostępność wysokiej jakości danych o sytuacji epidemiologicznej w Polsce.</li>
+        </ul>
+    </div>
+</div>
 
 Wzrost liczby zachorowań w sezonie jesienno-zimowym doprowadził do poważnego zagrożenia dla życia i zdrowia obywateli. Chociaż obecnie sytuacja ulega poprawie, nadal obserwowana jest zwiększona umieralność w społeczeństwie. Nasze badania wskazują, że dotychczas tylko około 10% populacji przeszło infekcję. Jeśli nie zostaną podjęte odpowiednie środki prewencyjne liczba zgonów może wzrosnąć. Pojawienie się szczepionki daje nadzieję na opanowanie epidemii, ale proces zaszczepienia wszystkich chętnych w populacji będzie trwać kilka miesięcy. To oznacza, że potrzebna jest ‘strategia przetrwania epidemii’ na najbliższych kilka miesięcy. Trzecia fala epidemii jest bardzo prawdopodobnym zagrożeniem, zwłaszcza jeśli w okresie Świąt i w styczniu nastąpi rozluźnienie restrykcji. W optymistycznym scenariuszu stopniowy powrót do normalności może nastąpić dopiero pod koniec 2021 r. W poniższym tekście podajemy zalecenia, jak możemy w tym przejściowym czasie optymalnie kontrolować epidemię i jakie dane są do tego potrzebne. 
 
