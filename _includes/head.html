@@ -25,8 +25,15 @@
   <!--meta name="twitter:site" content="@nytimes"-->
   <!-- meta name="twitter:creator" content="@SarahMaslinNir"-->
   <meta name="twitter:title" content="{{ page.title }}">
+  <meta property="og:title" content="{{ page.title }}" />
   <meta name="twitter:description" content="{{ page.teaser }}">
+  <meta property="og:description" content="{{ page.teaser }}">
+
   {% if page.image_teaser %}
   <meta name="twitter:image" content="{{ page.image_teaser | absolute_url }}">
+  <meta property="og:image"  content="{{ page.image_teaser | absolute_url }}">
   {% endif %}
 </head>
+
+
+
