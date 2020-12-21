@@ -268,7 +268,9 @@ Rekomendujemy wykorzystanie kilku grup wskaźników:
 </section>
 
 
-<small>Autorzy i podpisani: Aneta Afelt UW, Przemysław Biecek PW, UW, MOCOS, Marcin Bodych PWr, MOCOS, Anna Gambin UW MIMUW, Tyll Krüger PWr, MOCOS, Agata Migalska MOCOS, Rafał Mikołajczyk Universität Halle-Wittenberg, Krzysztofa Gogolewskiego MIM UW, Barbara Pabjan UWr, MOCOS, Franciszek Rakowski UW, Magdalena Rosińska NIZP-PZH, Jędrzej Nowosielski UW, Jakub Zieliński UW, Piotr Szymański PWr, MOCOS</small>
+<small>Autorzy i podpisani: Aneta Afelt UW, Przemysław Biecek PW, UW, MOCOS, Marcin Bodych PWr, MOCOS, 
+Anna Gambin UW MIMUW, Tyll Krüger PWr, MOCOS, Agata Migalska MOCOS, Rafał Mikołajczyk Universität Halle-Wittenberg, 
+Krzysztof Gogolewski, UW MIMUW, Barbara Pabjan UWr, MOCOS, Franciszek Rakowski UW, Magdalena Rosińska NIZP-PZH, Jędrzej Nowosielski UW, Jakub Zieliński UW, Piotr Szymański PWr, MOCOS</small>
 
  
 
