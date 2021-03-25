@@ -36,14 +36,6 @@ You can use the following custom parameters in `_config.yml`.
 - `slack_url`
 - `twitter_url`
 
-# Issues
-
-If you would like to report a bug, ask a question, request a feature, feel free to do so on [the GitLab repository](https://gitlab.com/andrewbanchich/editorial-jekyll-theme) and I will be more than happy to help!
-
-Alternatively, you can open an issue via email by emailing [incoming+andrewbanchich/editorial-jekyll-theme@incoming.gitlab.com](mailto:incoming+andrewbanchich/editorial-jekyll-theme@incoming.gitlab.com).
-
-The GitHub repository is simply a mirror of the GitLab repository.
-
 # Credits
 
 Original README from HTML5 UP:
