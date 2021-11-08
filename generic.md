@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Generic
+title: Generi
 image: assets/images/pic11.jpg
 ---
 
