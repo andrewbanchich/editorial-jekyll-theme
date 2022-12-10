@@ -1,0 +1,17 @@
+image: ruby
+
+pages:
+  stage: build
+  environment:
+    name: review/$CI_BUILD_REF_NAME
+    url: http://$CI_BUILD_REF_NAME.andrewbanchich.gitlab.io/editorial-jekyll-theme
+  script:
+  - gem install jekyll
+  - jekyll build -d public
+  - gem build editorial_jekyll_theme.gemspec
+  artifacts:
+    paths:
+    - public
+    - "editorial_jekyll_theme-*.gem"
+  only:
+  - master
